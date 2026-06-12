@@ -1,4 +1,3 @@
-Assignment 8: 
 Develop a course enrollment dashboard in reactjs:
 
 You are building a React component that displays enrolled students.
